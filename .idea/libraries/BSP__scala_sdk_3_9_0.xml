@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="BSP: scala-sdk-3.9.0" type="Scala">
+    <properties>
+      <language-level>Scala_3_9</language-level>
+      <compiler-classpath>
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.9.0/scala3-compiler_3-3.9.0.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.9.0/scala3-interfaces-3.9.0.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.9.0/tasty-core_3-3.9.0.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.9.0-scala-1/scala-asm-9.9.0-scala-1.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.12.0/compiler-interface-1.12.0.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.jar" />
+        <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.11.5/util-interface-1.11.5.jar" />
+      </compiler-classpath>
+      <compiler-bridge-binary-jar>file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-sbt-bridge/jars/scala3-sbt-bridge-3.9.0.jar</compiler-bridge-binary-jar>
+      <repl-classpath>
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-repl_3/jars/scala3-repl_3-3.9.0.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-compiler_3/jars/scala3-compiler_3-3.9.0.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-interfaces/jars/scala3-interfaces-3.9.0.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/tasty-core_3/jars/tasty-core_3-3.9.0.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-asm/jars/scala-asm-9.9.0-scala-1.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-sbt/compiler-interface/jars/compiler-interface-1.12.0.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-sbt/util-interface/jars/util-interface-1.11.5.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-directives-parser_3/jars/scala3-directives-parser_3-3.9.0.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-reader/jars/jline-reader-4.0.14.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-terminal/jars/jline-terminal-4.0.14.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-native/jars/jline-native-4.0.14.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-terminal-jni/jars/jline-terminal-jni-4.0.14.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/io.get-coursier/interface/jars/interface-1.0.29-M4.jar" />
+        <entry url="file://$USER_HOME$/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.36.jar" />
+      </repl-classpath>
+    </properties>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
